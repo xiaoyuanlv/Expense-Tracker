@@ -1,7 +1,7 @@
 # Expense-Tracker
  SwiftUI Expenses Tracker
 
-Learn SwiftUI withe YouTube Channel Video 
+Learn SwiftUI with YouTube Channel Video 
 https://www.youtube.com/watch?v=Bu6fAlltatA
 
 <br/>
